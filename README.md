@@ -1,6 +1,6 @@
 # Kotlin
 
-Kotlin learning project.
+*Kotlin* learning project.
 
 More info:
 
