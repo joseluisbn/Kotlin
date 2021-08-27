@@ -7,4 +7,11 @@ fun main() {
     //o bien
 
     println("Bienvenid@, $nombre")
+
+    //o bien
+
+    println("""
+        ***Bienvenid@***
+        Nombre: $nombre
+    """.trimIndent())
 }
