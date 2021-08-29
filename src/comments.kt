@@ -2,6 +2,6 @@ fun main() {
     //Esto es un comentario de una línea.
 
     /*Estos son comentarios
-    *de más de una
-    * línea*/
+    * de más de una línea.
+    * Añaden información al código.*/
 }
