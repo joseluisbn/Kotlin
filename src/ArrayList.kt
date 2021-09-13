@@ -1,4 +1,5 @@
-fun main() {
+fun main()
+{
 
     /*Al contrario del array, que tenía una dimensión fija,
     * el arrayList sí puede modificar sus dimensiones*/
@@ -7,7 +8,8 @@ fun main() {
 
     //Recorremos con el bucle todo el array
 
-    for (i in libros) {
+    for (i in libros)
+    {
         println(i)
     }
 
@@ -17,7 +19,8 @@ fun main() {
 
     libros.add("Dune")
 
-    for (i in libros) {
+    for (i in libros)
+    {
         println(i)
     }
 
@@ -27,7 +30,8 @@ fun main() {
 
     libros.removeAt(2)
 
-    for (i in libros) {
+    for (i in libros)
+    {
         println(i)
     }
 
@@ -37,7 +41,8 @@ fun main() {
 
     libros.sort()
 
-    for (i in libros) {
+    for (i in libros)
+    {
         println(i)
     }
 }
