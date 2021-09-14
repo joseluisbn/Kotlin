@@ -1,4 +1,5 @@
-fun main() {
+fun main()
+{
 
     //Creamos el array
 
@@ -6,13 +7,15 @@ fun main() {
 
     //Recorremos con el bucle todo el array
 
-    for (i in libros) {
+    for (i in libros)
+    {
         println(i)
     }
 
     //Ahí ha tomado todo el array, pero podemos delimitar el rango
 
-    for (i in 0..2) {
+    for (i in 0..2)
+    {
         println(libros[i])
     }
 }
